@@ -69,7 +69,7 @@ nav {width: 100%; height: 45px; border-bottom: 1px solid grey; line-height: 45px
 .news_box_list {width: 50%; float: left;}
 .news_list {width: 50%; float: right;}
 .news_box_list ul {width: 315px; display: flex; flex-flow: row wrap; justify-content: space-between; }
-.news_box_list ul li {float: left; width: 154px;margin-bottom: 10px;} 
+.news_box_list ul li {width: 154px;margin-bottom: 10px;} 
 .news_box_list ul li a {position: relative; height: 94px; overflow: hidden; display: block; }
 .news_text {padding: 5px;}
 .news_text strong {display: -webkit-box; overflow: hidden; text-overflow: ellipsis;  -webkit-line-clamp: 2; -webkit-box-orient: vertical; font-weight: 200; font-size: 12px; word-break: normal;}
